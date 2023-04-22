@@ -1,0 +1,18 @@
+current directory: /Users/benjaminstuart/RubymineProjects/bensblog/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/benjaminstuart/RubymineProjects/bensblog/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230422-53251-dupmha sitelibdir\=./.gem.20230422-53251-dupmha clean
+
+current directory: /Users/benjaminstuart/RubymineProjects/bensblog/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230422-53251-dupmha sitelibdir\=./.gem.20230422-53251-dupmha
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/benjaminstuart/RubymineProjects/bensblog/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230422-53251-dupmha sitelibdir\=./.gem.20230422-53251-dupmha install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20230422-53251-dupmha/bootsnap
+
+current directory: /Users/benjaminstuart/RubymineProjects/bensblog/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230422-53251-dupmha sitelibdir\=./.gem.20230422-53251-dupmha clean
